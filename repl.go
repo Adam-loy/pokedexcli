@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strings"
-  "github.com/bootdotdev/go-api-gate/courses/projects/pokedexcli/internal/pokeapi"
+  "github.com/Adam-loy/pokedexcli/internal/pokeapi"
 )
 type config struct {
     pokeapiClient   pokeapi.Client
